@@ -1,7 +1,7 @@
 <pre>
 <div id="header" align="center">
   <h1>Hi there, I'm Alisa 👋</h1>
-  <h3>Analytics student (3rd year) at HSE University</h3>
+  <h3>Analytics student (4th year) at HSE University</h3>
   <h3>Major: Data-Driven Business Management</h3>
 </div>
 </pre>
